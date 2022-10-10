@@ -17,7 +17,6 @@ function App() {
 
 
 
-  console.log(quizzData)
   return (
     <Container>
         {start && <Start setStart={setStart}/>}
