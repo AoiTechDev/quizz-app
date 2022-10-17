@@ -12,6 +12,7 @@ export const Button = styled.button`
     transition-duration: 0.4s;
     text-decoration: none;
     overflow: hidden;
+    align-self: center;
     cursor: pointer;
     &:after{
         content: "";
